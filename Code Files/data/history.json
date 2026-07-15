@@ -1,0 +1,147 @@
+[
+    {
+        "theme": "General Networking",
+        "interests": "acid rain",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in acid rain, what sessions are you attending?",
+            "I work in acid rain. What's your background?"
+        ]
+    },
+    {
+        "theme": "General Networking",
+        "interests": "climate change",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in climate change, what sessions are you attending?",
+            "I work in climate change. What's your background?"
+        ]
+    },
+    {
+        "theme": "Technology",
+        "interests": "urban planning",
+        "prompts": [
+            "Write 3 short networking conversation starters for someone interested in urban planning at an event about Technology:",
+            "Networking, and also how you can take a step back and think about where you could go with your technology if you needed to. 2. Build a network of peers. 3. Take a look at how you plan and build something using the online resources that come from your website.",
+            "Try new ways of doing things. 5. Try different things. 7. Make more connections. 8. Build for a future."
+        ]
+    },
+    {
+        "theme": "Technology",
+        "interests": "climate change",
+        "prompts": [
+            "Write 3 short networking conversation starters for someone interested in climate change at an event about Technology:",
+            "What's the coolest thing you've ever done at MIT?",
+            "How many times did you get to know or actually go to MIT?"
+        ]
+    },
+    {
+        "theme": "General Networking",
+        "interests": "technology",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in technology, what sessions are you attending?",
+            "I work in technology. What's your background?"
+        ]
+    },
+    {
+        "theme": "General Networking",
+        "interests": "acid rain",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in acid rain, what sessions are you attending?",
+            "I work in acid rain. What's your background?"
+        ]
+    },
+    {
+        "theme": "General Networking",
+        "interests": "climate",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in climate, what sessions are you attending?",
+            "I work in climate. What's your background?"
+        ]
+    },
+    {
+        "theme": "General Networking",
+        "interests": "acid rain",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in acid rain, what sessions are you attending?",
+            "I work in acid rain. What's your background?"
+        ]
+    },
+    {
+        "theme": "General Networking",
+        "interests": "acid rain",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in acid rain, what sessions are you attending?",
+            "I work in acid rain. What's your background?"
+        ]
+    },
+    {
+        "theme": "General Networking",
+        "interests": "urban planning",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in urban planning, what sessions are you attending?",
+            "I work in urban planning. What's your background?"
+        ]
+    },
+    {
+        "timestamp": "2026-07-13 22:41:22",
+        "description": "cloud computing",
+        "theme": "Technology",
+        "interests": "acid rain",
+        "prompts": [
+            "Write 3 short networking conversation starters for someone interested in acid rain at an event about Technology:",
+            "http://en.wikipedia.org/wiki/Fancy_sophistication . 2. http://en.wikipedia.org/wiki/Fancy_shackin_man . 3. http://en.wikipedia.org/wiki/Fancy_welcome_to_my_santa .",
+            "http://en.wikipedia.org/wiki/Espionage . 5. http://www.winnipegpi.com/news/20140823/Espionage-of-the-Fancy-welcome-to-my-santa.html"
+        ]
+    },
+    {
+        "timestamp": "2026-07-13 22:42:40",
+        "description": "ai\n",
+        "theme": "General Networking",
+        "interests": "acid rain",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in acid rain, what sessions are you attending?",
+            "I work in acid rain. What's your background?"
+        ]
+    },
+    {
+        "timestamp": "2026-07-13 23:10:15",
+        "description": "ai\n",
+        "theme": "General Networking",
+        "interests": "acid rain",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in acid rain, what sessions are you attending?",
+            "I work in acid rain. What's your background?"
+        ]
+    },
+    {
+        "timestamp": "2026-07-14 22:43:14",
+        "description": "ai",
+        "theme": "General Networking",
+        "interests": "climate change",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in climate change, what sessions are you attending?",
+            "I work in climate change. What's your background?"
+        ]
+    },
+    {
+        "timestamp": "2026-07-15 00:29:38",
+        "description": "ai for tech",
+        "theme": "Technology",
+        "interests": "climate change",
+        "prompts": [
+            "Write 3 short networking conversation starters for someone interested in climate change at an event about Technology:",
+            "We should read a book on climate change by Michael Pollan http://pollan.com/article/the-interactive-book/",
+            "We should read a book on climate change by Eric Schmidt http://www.ericsciochne.com/blog/2013/03/10/climate-change-chicago-1-tweet"
+        ]
+    }
+]
