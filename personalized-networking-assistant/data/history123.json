@@ -1,0 +1,92 @@
+[
+    {
+        "theme": "Technology",
+        "interests": "ai",
+        "prompts": [
+            "Write 3 short networking conversation starters for someone interested in ai at an event about Technology:",
+            "To start networking, ask how they do it.",
+            "Take your time with questions and answers, as well as explain what is happening at their end point in time."
+        ]
+    },
+    {
+        "theme": "General Networking",
+        "interests": "climate change",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in climate change, what sessions are you attending?",
+            "I work in climate change. What's your background?"
+        ]
+    },
+    {
+        "theme": "AI",
+        "interests": "climate change",
+        "prompts": [
+            "Write 3 short networking conversation starters for someone interested in climate change at an event about AI:",
+            "Introduction",
+            "Learning From the Experts"
+        ]
+    },
+    {
+        "theme": "AI",
+        "interests": "urban planning",
+        "prompts": [
+            "Write 3 short networking conversation starters for someone interested in urban planning at an event about AI:",
+            "Get Started With the Cloud",
+            "One thing I love to tell people about these things is that they don't have to do research to understand it. They can do it. Get started with the cloud first and write down all the key things you need to know."
+        ]
+    },
+    {
+        "theme": "Education",
+        "interests": "food",
+        "prompts": [
+            "Hi, I'm really interested in Education. What brought you to this event?",
+            "As someone into food, how do you see Education evolving in the next year?",
+            "I'd love to hear your take on Education. What's been your experience with it?"
+        ]
+    },
+    {
+        "theme": "General Networking",
+        "interests": "materials",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in materials, what sessions are you attending?",
+            "I work in materials. What's your background?"
+        ]
+    },
+    {
+        "theme": "General Networking",
+        "interests": "materials",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in materials, what sessions are you attending?",
+            "I work in materials. What's your background?"
+        ]
+    },
+    {
+        "theme": "General Networking",
+        "interests": "materials",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in materials, what sessions are you attending?",
+            "I work in materials. What's your background?"
+        ]
+    },
+    {
+        "theme": "General Networking",
+        "interests": "materials",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in materials, what sessions are you attending?",
+            "I work in materials. What's your background?"
+        ]
+    },
+    {
+        "theme": "General Networking",
+        "interests": "materials",
+        "prompts": [
+            "Hi! What are you most excited about at this event?",
+            "As someone interested in materials, what sessions are you attending?",
+            "I work in materials. What's your background?"
+        ]
+    }
+]
